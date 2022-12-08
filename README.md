@@ -19,12 +19,19 @@
  
  PRÁCTICA No. 3 ANÁLISIS DE NODOS.
  
- 
       OBJETIVOS DE LA PRACTICA:
  
  OBJETIVOS GENERALES 
  
+ Analizar el circuito a diseñar conociendo las caracteristicas principales de los diferentes componentes a utilizar e identificar cada componente y en diferentes sitios de información, mediante la investigacion conocer las caracteristicas del tema "Analisis de Nodos".
+ 
  OBJETIVOS ESPECIFICOS
+ 
+ • Observar e identificar cada uno de los nodos que existen en el circuito
+ 
+ • Analizar y medir con un multimetro los voltajes de los nodos tanto fisico y simulado.
+ 
+ • Observar conocer y analizar los resultados medante el calculo.
  
       REQUISITOS PREVIOS.
 
@@ -40,7 +47,9 @@ función de voltajes.
 Un nodo es el punto de unión de dos o más elementos.
 
       MARCO TEORICO
- 
+
+![image](https://user-images.githubusercontent.com/117923992/206458775-bbd2e476-0f09-411b-a972-17fde3c80679.png)
+
       MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/117923992/206218439-75c4c66d-53ef-4157-9f90-a51e2bf1b930.png)
@@ -50,6 +59,10 @@ Un nodo es el punto de unión de dos o más elementos.
 Implemente el circuito que se presenta en la figura 3.1
 
 ![image](https://user-images.githubusercontent.com/117923992/206219378-736f463a-9b2e-4d78-8cce-bf7d54adf6cf.png)
+
+A continuacion podremos observar los nodos que existen en el circuito:
+
+![image](https://user-images.githubusercontent.com/117923992/206462669-d43b2d90-740b-4746-a86d-1a03e88d6cf9.png)
 
 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1
 
@@ -112,7 +125,20 @@ Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 Calcular errores de las mediciones y comentar los resultados.
 
       VIDEO 
- 
+
+LINK:
+
       CONCLUCIONES
- 
+
+Mediante la investigacion se pudo conocer que un nodo es la union de dos o mas elemtos en un circuito electrico.
+
+Por otro lado mediante las diferentes mediciones del laboratorio se puede concluir que  un nodo es un punto donde dos o más elementos o ramas de un circuito cerrado tienen una conexión común.
+Corresponde a una unión de alambres hechos de material conductor que poseen una resistencia eléctrica cercana a cero
+
       BIBLIOGRAFIA
+
+• El método del voltaje en los nodos (artículo) | Khan Academy. (s.f.). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
+• La terminología de los circuitos (artículo) | Khan Academy. (s.f.). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology#:~:text=Nodo%20–%20Una%20unión%20en%20donde,conectan%20se%20llama%20un%20nodo.
+
+• Teorema de Nodos 【 Análisis Paso a Paso 】✔. (s.f.). MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/
