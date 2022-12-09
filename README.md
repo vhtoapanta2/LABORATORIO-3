@@ -126,7 +126,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
       VIDEO 
 
-LINK:
+LINK: https://youtu.be/hVi6ebIL0oo
 
       CONCLUCIONES
 
