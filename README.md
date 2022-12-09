@@ -116,13 +116,16 @@ RESPUESTAS DE RESULTADOS ANALITICOS
 
 ![image](https://user-images.githubusercontent.com/117923992/206244703-44951954-9d0a-4029-ab70-edf01b17ef2e.png)
 
-Analizar los nodos y compare los valores de la tabla 3.1 y realice sus conclusiones.
+Analizar los nodos y compare los valores de la tabla 3.1
 
 Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/117923992/206233584-202c521a-1cc3-432d-9612-b769190cc555.png)
 
-Calcular errores de las mediciones y comentar los resultados.
+ERRORES RELATIVOS 
+
+![image](https://user-images.githubusercontent.com/117923992/206602067-8723084b-c5da-4825-a684-295fab49d406.png)
+
 
       VIDEO 
 
